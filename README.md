@@ -3,8 +3,8 @@
 **`Software Engineer`**
 
 Hi! 👋
-<br />
-I'm a Software Engineer from Montevideo, Uruguay 🇺🇾, deeply passionate about frontend development for both web and mobile platforms. I find joy in crafting beautiful and performant applications, always striving for excellence in user experience.
+
+I'm a Software Engineer from Montevideo, Uruguay 🇺🇾, deeply passionate about frontend development for both web and mobile platforms. I find joy in crafting beautiful and performant applications, always striving for excellence in user experience. While my expertise lies in frontend development, I also have foundational knowledge of backend technologies, enabling me to contribute to full-stack projects and effectively collaborate with backend teams.
 
 I'm dedicated to leveraging state-of-the-art technologies to create innovative solutions that push boundaries and exceed expectations. Constantly on the lookout for cutting-edge tools and techniques, I embrace a mindset of perpetual learning, eagerly incorporating new knowledge and skills into the projects I undertake.
 
@@ -90,6 +90,18 @@ I'm dedicated to leveraging state-of-the-art technologies to create innovative s
     </td>
   </tr>
   <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="NodeJS"/>
+      <br>NodeJS
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="NPM" />
+      <br>NPM
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" width="48" height="48" alt="Yarn" />
+      <br>Yarn
+    </td>  
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="48" height="48" alt="Jest" />
       <br>Jest
