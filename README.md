@@ -109,10 +109,6 @@ I'm dedicated to leveraging state-of-the-art technologies to create innovative s
   </tr>
 </table>
 
-<br />
-<br />
-<br />
-
 ##
 
 ### 🔎 &nbsp; Check out my LinkedIn profile
