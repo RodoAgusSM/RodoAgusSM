@@ -113,7 +113,7 @@ I'm dedicated to leveraging state-of-the-art technologies to create innovative s
 
 ### 🔎 &nbsp; Check out my LinkedIn profile
 <a href="https://www.linkedin.com/in/rodolfosilvamessano/">
-  <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+  <img align="center" alt="LinkedIn" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 </a>
 <br />
 
