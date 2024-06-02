@@ -4,9 +4,9 @@
 
 Hi! 👋
 
-I'm a Software Engineer from Montevideo, Uruguay 🇺🇾, deeply passionate about frontend development for both web and mobile platforms. I find joy in crafting beautiful and performant applications, always striving for excellence in user experience. While my expertise lies in frontend development, I also have foundational knowledge of backend technologies, enabling me to contribute to full-stack projects and effectively collaborate with backend teams.
+I'm a passionate Software Engineer from Montevideo, Uruguay 🇺🇾, specializing in frontend development for both web and mobile platforms. I thrive on creating beautiful, performant applications with a focus on excellent user experience. My primary expertise is in frontend development, but I also possess foundational knowledge of backend technologies, which allows me to contribute to full-stack projects and collaborate effectively with backend teams.
 
-I'm dedicated to leveraging state-of-the-art technologies to create innovative solutions that push boundaries and exceed expectations. Constantly on the lookout for cutting-edge tools and techniques, I embrace a mindset of perpetual learning, eagerly incorporating new knowledge and skills into the projects I undertake.
+I am dedicated to leveraging state-of-the-art technologies to create innovative solutions that push boundaries and exceed expectations. With a mindset of perpetual learning, I am always on the lookout for cutting-edge tools and techniques to incorporate into my projects.
 
 ---
 
@@ -15,11 +15,11 @@ I'm dedicated to leveraging state-of-the-art technologies to create innovative s
 <table>
   <tr>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="NextJS" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="NextJS" />
       <br>NextJS
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React" />
       <br>React
     </td>
     <td align="center" width="100">
@@ -35,7 +35,7 @@ I'm dedicated to leveraging state-of-the-art technologies to create innovative s
       <br>JavaScript
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="TailwindCSS" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="TailwindCSS" />
       <br>TailwindCSS
     </td>
     <td align="center" width="100">
@@ -43,17 +43,17 @@ I'm dedicated to leveraging state-of-the-art technologies to create innovative s
       <br>Styled Components
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnavigation/reactnavigation-original.svg" width="48" height="48" alt="React Navigation" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React Navigation" />
       <br>React Navigation
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" width="48" height="48" alt="React Router" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React Router" />
       <br>React Router
     </td>
   </tr>
   <tr>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" width="48" height="48" alt="Framer Motion" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" width="48" height="48" alt="Framer Motion" />
       <br>Framer Motion
     </td>
     <td align="center" width="100">
@@ -61,7 +61,7 @@ I'm dedicated to leveraging state-of-the-art technologies to create innovative s
       <br>React Animations
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="48" height="48" alt="Redux" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="48" height="48" alt="Redux" />
       <br>Redux
     </td>
     <td align="center" width="100">
@@ -81,55 +81,54 @@ I'm dedicated to leveraging state-of-the-art technologies to create innovative s
       <br>GitHub
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="48" height="48" alt="GitLab" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="48" height="48" alt="GitLab" />
       <br>GitLab
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" height="48" alt="AWS Services" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" height="48" alt="AWS Services" />
       <br>AWS Services
     </td>
   </tr>
   <tr>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="NodeJS"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="NodeJS"/>
       <br>NodeJS
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="NPM" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="NPM" />
       <br>NPM
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" width="48" height="48" alt="Yarn" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="48" height="48" alt="Yarn" />
       <br>Yarn
     </td>  
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="48" height="48" alt="Jest" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="48" height="48" alt="Jest" />
       <br>Jest
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/realm/realm-original.svg" width="48" height="48" alt="Realm" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/realm/realm-original.svg" width="48" height="48" alt="Realm" />
       <br>Realm
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="48" height="48" alt="Postman" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48" alt="Postman" />
       <br>Postman
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="48" height="48" alt="Jira" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48" height="48" alt="Jira" />
       <br>Jira
     </td>
   </tr>
 </table>
 
-##
+---
 
 ### 🔎 &nbsp; Check out my LinkedIn profile
 <a href="https://www.linkedin.com/in/rodolfosilvamessano/">
-  <img align="center" alt="LinkedIn" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+  <img align="center" alt="LinkedIn" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
-<br />
 
-##
+---
 
 ### 📬 &nbsp; Reach out to me
 Feel free to send me an email [here](mailto:rodoagussm@gmail.com)
