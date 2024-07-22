@@ -35,7 +35,7 @@ I am dedicated to leveraging state-of-the-art technologies to create innovative 
       <br>JavaScript
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="TailwindCSS" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="TailwindCSS"/>
       <br>TailwindCSS
     </td>
     <td align="center" width="100">
