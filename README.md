@@ -1,134 +1,141 @@
 # 👨🏽‍💻 Rodolfo Silva
 
-**`Software Engineer`**
+<div align="center">
 
-Hi! 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Frontend+Specialist;React+%26+Next.js+Expert;Mobile+App+Developer;From+Uruguay+%F0%9F%87%BA%F0%9F%87%BE)](https://git.io/typing-svg)
 
-I'm a passionate Software Engineer from Montevideo, Uruguay 🇺🇾, specializing in frontend development for both web and mobile platforms. I thrive on creating beautiful, performant applications with a focus on excellent user experience. My primary expertise is in frontend development, but I also possess foundational knowledge of backend technologies, which allows me to contribute to full-stack projects and collaborate effectively with backend teams.
+</div>
 
-I am dedicated to leveraging state-of-the-art technologies to create innovative solutions that push boundaries and exceed expectations. With a mindset of perpetual learning, I am always on the lookout for cutting-edge tools and techniques to incorporate into my projects.
-
----
-
-### 💼 &nbsp; Languages and Tools
-
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="NextJS" />
-      <br>NextJS
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React Native" />
-      <br>React Native
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="TailwindCSS"/>
-      <br>TailwindCSS
-    </td>
-    <td align="center" width="100">
-      <img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" width="48" height="48" alt="Styled Components" />
-      <br>Styled Components
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React Navigation" />
-      <br>React Navigation
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React Router" />
-      <br>React Router
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" width="48" height="48" alt="Framer Motion" />
-      <br>Framer Motion
-    </td>
-    <td align="center" width="100">
-      <img src="https://camo.githubusercontent.com/1f6597b9733bfc33abc5d29043585cb8ce767fb31feb4ed7886c7b1f65b7d1fd/68747470733a2f2f692e696d6775722e636f6d2f515a6f776e68672e706e67" width="48" height="48" alt="React Animations" />
-      <br>React Animations
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="48" height="48" alt="Redux" />
-      <br>Redux
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="48" height="48" alt="CSS" />
-      <br>CSS
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
-      <br>GitHub
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="48" height="48" alt="GitLab" />
-      <br>GitLab
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" height="48" alt="AWS Services" />
-      <br>AWS Services
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="NodeJS"/>
-      <br>NodeJS
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="NPM" />
-      <br>NPM
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="48" height="48" alt="Yarn" />
-      <br>Yarn
-    </td>  
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="48" height="48" alt="Jest" />
-      <br>Jest
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/realm/realm-original.svg" width="48" height="48" alt="Realm" />
-      <br>Realm
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48" height="48" alt="Jira" />
-      <br>Jira
-    </td>
-  </tr>
-</table>
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Passionate+about+creating+beautiful%2C+performant+applications;Focused+on+excellent+user+experience;Always+exploring+cutting-edge+technologies" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🔎 &nbsp; Check out my LinkedIn profile
-<a href="https://www.linkedin.com/in/rodolfosilvamessano/">
-  <img align="center" alt="LinkedIn" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a>
+## 🚀 About Me
+
+```typescript
+const rodolfo = {
+    name: "Rodolfo Silva",
+    location: "Montevideo, Uruguay 🇺🇾",
+    role: "Software Engineer",
+    experience: "5+ years",
+    specialization: ["Frontend Development", "Mobile Apps", "Cloud Infrastructure"],
+    currentFocus: "Building scalable web and mobile applications",
+    education: "Bachelor's Degree in Computer Science - Universidad ORT Uruguay",
+    philosophy: "Delivering fast, user-friendly, and maintainable solutions"
+};
+```
 
 ---
 
-### 📬 &nbsp; Reach out to me
-Feel free to send me an email [here](mailto:rodoagussm@gmail.com)
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Frontend Technologies
+![React](https://img.shields.io/badge/React%20%20-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js%20-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+
+### Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
+
+### Cloud & AWS Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![AWS RDS](https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge&logo=amazon-cloudfront&logoColor=white)
+
+### Styling & UI
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 💼 Professional Experience
+
+| Company | Role | Period |
+|---------|------|--------|
+| **Modelit** | Software Engineer | *December 2024 - Present* |
+| **CodigoDelSur** | Software Engineer | *August 2023 - December 2024* |
+| **Dualboot Partners** | Web & Mobile Developer | *December 2021 - August 2023* |
+| **Kreitech SRL** | Web & Mobile Developer | *March 2021 - December 2021* |
+
+---
+
+## 🎓 Education
+**Bachelor's Degree in Computer Science**
+*Universidad ORT Uruguay - April 2022*
+
+---
+
+## 🏆 Featured Projects
+
+<div align="center">
+
+### 🌤️ Web Weather 4 U
+**React Weather Application** - A modern, responsive web app providing real-time weather information with an intuitive user interface.
+
+[![Web Weather 4 U](https://github-readme-stats.vercel.app/api/pin/?username=RodoAgusSM&repo=Web_Weather_4_U&theme=radical&hide_border=true)](https://github.com/RodoAgusSM/Web_Weather_4_U)
+
+</div>
+
+---
+
+<div align="center">
+
+### 📱 Mobile Keyper
+**React Native Password Manager** - A secure, cross-platform mobile application for managing passwords and sensitive information with biometric authentication.
+
+[![Mobile Keyper](https://github-readme-stats.vercel.app/api/pin/?username=RodoAgusSM&repo=Mobile_Keyper&theme=radical&hide_border=true)](https://github.com/RodoAgusSM/Mobile_Keyper)
+
+</div>
+
+---
+
+## 💡 Philosophy & Approach
+
+> *"Great software is not just about clean code—it's about creating experiences that users love and remember."*
+
+<div align="center">
+
+| 🎯 User-Centric | ⚡ Performance | 🔧 Maintainable | 🚀 Innovation |
+|:---:|:---:|:---:|:---:|
+| Every feature serves the user | Fast, efficient applications | Clean, documented code | Always exploring new tech |
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rodolfosilvamessano)
+[![GitHub](https://img.shields.io/badge/GitHub%20-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rodoagussm)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodoagussm@gmail.com)
+
+</div>
